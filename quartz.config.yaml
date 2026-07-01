@@ -8,7 +8,6 @@ configuration:
     provider: plausible
   locale: en-US
   baseUrl: eric-hur-21.github.io/Ericverse
-
   ignorePatterns:
     - private
     - templates
